@@ -1,4 +1,4 @@
-# Drew Game Dash
+# Drews Game Dash
 ## Simplistic Game Dash For Running Events
 
 Built in React-Native using Native Base 
